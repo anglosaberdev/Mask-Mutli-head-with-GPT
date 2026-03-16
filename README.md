@@ -1,4 +1,4 @@
-# GPT-2 Attention Visualization
+# GPT-2 Attention 
 
 This repository demonstrates how to inspect and visualize the inner workings of the GPT-2 model using PyTorch and Hugging Face Transformers. It covers token embeddings, attention mechanisms, hidden states, and next-token prediction.
 
